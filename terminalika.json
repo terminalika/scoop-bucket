@@ -1,0 +1,21 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.0/terminalika_0.3.0_windows_amd64.zip",
+            "bin": [
+                "terminalika.exe"
+            ],
+            "hash": "6f23601b3423626d2d6cfcae97534c9473e645ed691d8a0bef31119bb43b29ad"
+        },
+        "arm64": {
+            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.0/terminalika_0.3.0_windows_arm64.zip",
+            "bin": [
+                "terminalika.exe"
+            ],
+            "hash": "53ccd5c8dd82e6d805d818ded29756d971ae1db3d6b54a13ecd8f4f923c22a77"
+        }
+    },
+    "homepage": "https://github.com/terminalika/terminalika",
+    "description": "Tiny terminal game launcher for AI-agent waiting time"
+}
