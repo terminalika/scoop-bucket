@@ -1,21 +1,22 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.1/terminalika_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.2/terminalika_0.3.2_windows_amd64.zip",
             "bin": [
                 "terminalika.exe"
             ],
-            "hash": "e5c394e66bbe22a8a64409d8770482e2813459f99e283c865ccba80797ba47d4"
+            "hash": "1f82c627741dd1d53ddeb38296ba26ea96a1ac48e87bb23ed351c31cd6a074a0"
         },
         "arm64": {
-            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.1/terminalika_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.2/terminalika_0.3.2_windows_arm64.zip",
             "bin": [
                 "terminalika.exe"
             ],
-            "hash": "3711ee577e89a3100ce8245be1cd29f22ad3c3ca8e2a92cb4197bd0be81bdcaf"
+            "hash": "b8631576f9ebf7d1241ee4bf2f8e2ebf6daccc0c2295bf545db814272d23029b"
         }
     },
     "homepage": "https://github.com/terminalika/terminalika",
+    "license": "MIT",
     "description": "Tiny terminal game launcher for AI-agent waiting time"
 }
