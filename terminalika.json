@@ -1,19 +1,19 @@
 {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.2/terminalika_0.3.2_windows_amd64.zip",
+            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.3/terminalika_0.3.3_windows_amd64.zip",
             "bin": [
                 "terminalika.exe"
             ],
-            "hash": "1f82c627741dd1d53ddeb38296ba26ea96a1ac48e87bb23ed351c31cd6a074a0"
+            "hash": "472b5af1db9a7591ccbad4cec4c4d820296b828300f52a27d3a714d23342bdb0"
         },
         "arm64": {
-            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.2/terminalika_0.3.2_windows_arm64.zip",
+            "url": "https://github.com/terminalika/terminalika/releases/download/v0.3.3/terminalika_0.3.3_windows_arm64.zip",
             "bin": [
                 "terminalika.exe"
             ],
-            "hash": "b8631576f9ebf7d1241ee4bf2f8e2ebf6daccc0c2295bf545db814272d23029b"
+            "hash": "7cb17f27b84219e3a31511716f98a674b3b49e2312aeddaf37df39eb55a85f9c"
         }
     },
     "homepage": "https://github.com/terminalika/terminalika",
